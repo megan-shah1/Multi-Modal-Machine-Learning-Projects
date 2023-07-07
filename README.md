@@ -37,10 +37,10 @@ Languages:
   - Logistic Regression
   - Naive Bayes
 
-# Detecting_Emotion_Through_Audio Project
+## Detecting_Emotion_Through_Audio Project
 The Detecting_Emotion_Through_Audio project aims to utilize machine learning techniques to analyze short audio clips and determine the underlying emotion expressed in the audio. The project focuses on leveraging a carefully curated dataset consisting of audio files categorized into emotions such as anger, sadness, happiness, and fear. By extracting relevant features, including factors like timbre and pitch, the project aims to develop a model capable of accurately identifying the emotions present in the audio clips.
 
-## Project Workflow
+### Project Workflow
 - Data Collection: Curated a diverse dataset of labeled audio clips representing different emotions
 
 - Preprocessing: Prepared the audio data by standardizing formats and performing necessary cleaning and noise removal
@@ -55,7 +55,7 @@ The Detecting_Emotion_Through_Audio project aims to utilize machine learning tec
 
 - Testing and Performance Evaluation: Assess the model's performance on unseen audio clips using the testing set
 
-## Skills and Packages Used
+### Skills and Packages Used
 Languages:
   - Python
 
